@@ -4,10 +4,14 @@ The goal of this project is to optimize rPPG for continuous and unobtrusive moni
 
 
 you need to install _:'
-scipy
-dlib
-imutils
-numpy
-opencv-python
-PyQt5
-pyqtgraph
+-scipy
+-dlib
+-imutils
+-numpy
+-opencv-python
+-PyQt5
+-pyqtgraph
+
+
+*there is a video attatched that show the operation and the results*
+
